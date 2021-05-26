@@ -1,5 +1,5 @@
 # hello-world
-My first respository on git
+My first respository on git.
 Yo! Emmanuel here, as earlier mentioned this is my ever first respository on git. So, it's more like a test run but hang-on let me tell you a little about myself.
 My name is Emmanuel Okere, i'm a very passionate learner and a goal driven fellow always ready to solve problems ans work as a team.
 Aside being a passionate learner, i am tech enthusiast that loves to create impact and value in turn solving real life problems/challenges throuch creativity and innovation.
